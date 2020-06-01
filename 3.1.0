@@ -1,0 +1,28 @@
+
+> fibers@5.0.0 install D:\NodeJS\AndreaN\ReactApp\my-app\monsters-rolodex\monsters-rolodex\node_modules\fibers
+> node build.js || nodejs build.js
+
+`win32-x64-72` exists; testing
+Binary is fine; exiting
+
+> node-sass@4.0.0 install D:\NodeJS\AndreaN\ReactApp\my-app\monsters-rolodex\monsters-rolodex\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.0.0/win32-x64-72_binding.node
+
+> node-sass@4.0.0 postinstall D:\NodeJS\AndreaN\ReactApp\my-app\monsters-rolodex\monsters-rolodex\node_modules\node-sass
+> node scripts/build.js
+
+Building: C:\Program Files\nodejs\node.exe D:\NodeJS\AndreaN\ReactApp\my-app\monsters-rolodex\monsters-rolodex\node_modules\node-gyp\bin\node-gyp.js rebuild --verbose --libsass_ext= --libsass_cflags= --libsass_ldflags= --libsass_library=
+Building the projects in this solution one at a time. To enable parallel build, please add the "/m" switch.
+Build started 01-06-2020 15:38:38.
+MSBUILD : error MSB4132: The tools version "2.0" is unrecognized. Available tools versions are "4.0".
+
+Build FAILED.
+
+  MSBUILD : error MSB4132: The tools version "2.0" is unrecognized. Available tools versions are "4.0".
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.32
